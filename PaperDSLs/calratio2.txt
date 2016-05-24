@@ -1,0 +1,1 @@
+J1 (smoot): et>60 GeV, abseta < 2.5, EMF < 0.02, -1 ns < ArrivalTime < 5 ns;
